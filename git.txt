@@ -13,6 +13,7 @@ git commit    //提交
     2.点击'esc',输入':wq'
     或者直接 写 git commit -m '提交的信息'
 git push      //推送到仓库
+  分支推送代码到仓库 git push --set-upstream origin login  //login为分支
 git pull      //从远程仓库拉去数据
 git clone     //从远程仓库拷贝数据
 
