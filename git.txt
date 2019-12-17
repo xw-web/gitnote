@@ -31,3 +31,6 @@ git config --global user.email '1272716615@qq.com'
 2.创建分支
   git branch login   //创建名为login分支
   git checkout login //切换到名为login的分支 
+3.合并分支代码
+  git checkout master //进入主线
+  git merge login     //合并分支login 代码
