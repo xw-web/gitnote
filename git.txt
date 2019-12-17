@@ -34,3 +34,6 @@ git config --global user.email '1272716615@qq.com'
 3.合并分支代码
   git checkout master //进入主线
   git merge login     //合并分支login 代码
+4.连接远程仓库
+  git remote add origin https://github.com/xw-web/gitnote.git 
+  //连接'https://github.com/xw-web/gitnote.git'的仓库
