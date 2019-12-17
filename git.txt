@@ -11,6 +11,7 @@ git status    //查看状态
 git commit    //提交
     1.填写提交信息
     2.点击'esc',输入':wq'
+    或者直接 写 git commit -m '提交的信息'
 git push      //推送到仓库
 git pull      //从远程仓库拉去数据
 git clone     //从远程仓库拷贝数据
