@@ -1,0 +1,21 @@
+账号
+xw-web
+1272716615@qq.com
+帅哥美女
+
+查看版本
+git --version
+git init      //初始化本地git仓库
+git add<file> //添加文件
+git status    //查看状态
+git commit    //提交
+git push      //推送到仓库
+git pull      //从远程仓库拉去数据
+git clone     //从远程仓库拷贝数据
+
+*.html        //所有的html文件
+.             //所有的文件
+
+git配置
+git config --global user.name 'xw-web'
+git config --global user.email '1272716615@qq.com'
