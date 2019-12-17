@@ -39,3 +39,5 @@ git config --global user.email '1272716615@qq.com'
   //连接'https://github.com/xw-web/gitnote.git'的仓库
   git remote  // 查看是否连接 显示 origin 为成功
   git push -u origin master  //把本地仓库的代码上传到远程仓库
+
+  连接成功后 第二次提交时 直接 输入 git push  
