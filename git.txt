@@ -28,3 +28,5 @@ git config --global user.email '1272716615@qq.com'
 1.如何忽略git不想上传的文件
   创建文件.gitignore touch .gitignore
   添加需要忽略的文件
+2.创建分支
+  git branch login  //创建名为login分支 
